@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I’m a mobile developer from Côte d’Ivoire.<br><br>	•	🔭 Flutter dev with 2+ years of experience, building scalable and performant apps<br>	•	📚 Currently learning backend development with Go<br>	•	⚡ In my free time, I study clean architecture, build side projects, and explore new tools & libraries</p>
+<p align="left">I’m a mobile developer from Côte d’Ivoire.<br><br>	•	🔭 Flutter dev with 2.5+ years of experience, building scalable and performant apps<br>	•	📚 Currently learning backend development with Go<br>	•	⚡ In my free time, I study clean architecture, build side projects, and explore new tools & libraries</p>
 
 ###
 
